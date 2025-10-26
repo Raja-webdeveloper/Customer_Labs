@@ -203,7 +203,7 @@ const SaveSegmentModal = ({ onClose }: SaveSegmentModalProps) => {
             onClick={handleSave}
             className="px-6 py-2 bg-green-500 hover:bg-green-600 text-white rounded-lg transition-colors"
           >
-            Save the Segment
+            Save the Segment 
           </button>
         </div>
       </div>
